@@ -29,6 +29,7 @@ Here’s a preview of the Power BI dashboard:
 
 <img width="800" height="743" alt="pizzasale dashoboard2" src="https://github.com/user-attachments/assets/76bc3e6d-cf62-4cea-95ec-324437f6392f" />
 
+
 **Insights:**
 
 Based on the analysis and visualizations it was observed that 
