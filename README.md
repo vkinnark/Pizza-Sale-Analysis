@@ -11,7 +11,7 @@ Project Objectives
 
   
 Key metrics analyzed:
-- Total Revenue
+- [Total Revenue](https://github.com/vkinnark/Pizza-Sale-Analysis/blob/main/sql%20queries)
 - Average Order Value
 - Total Pizzas Sold
 - Total Orders
