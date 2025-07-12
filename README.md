@@ -23,6 +23,14 @@ The following metrcis were analyzed using [sql queries](https://github.com/vkinn
 
 Visualizations
 Here’s a preview of the Power BI dashboard:
-<img width="900" height="742" alt="pizzasale dashoboard1" src="https://github.com/user-attachments/assets/a23a4a6d-82df-44b5-a9f4-74c9d4252a66" />
+<img width="800" height="742" alt="pizzasale dashoboard1" src="https://github.com/user-attachments/assets/a23a4a6d-82df-44b5-a9f4-74c9d4252a66" />
 
-<img width="900" height="743" alt="pizzasale dashoboard2" src="https://github.com/user-attachments/assets/76bc3e6d-cf62-4cea-95ec-324437f6392f" />
+<img width="800" height="743" alt="pizzasale dashoboard2" src="https://github.com/user-attachments/assets/76bc3e6d-cf62-4cea-95ec-324437f6392f" />
+
+Insights
+Based on the analysis and visualizations it was observed that 
+-The orders were highest on Thursday, Friday and Saturday
+-July and August month contribute to highest sale
+-Classic category contribute to maximum sales and order
+-Large size pizza contribute to maximum sales
+These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance by optimizing inventory based on high-selling pizza ingredients to reduce waste and cost.Launching campaigns around underperforming categories and accomodating workforce to handle deliveries on high footfall days.
