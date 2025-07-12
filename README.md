@@ -23,4 +23,6 @@ The following metrcis were analyzed using [sql queries](https://github.com/vkinn
 
 Visualizations
 Here’s a preview of the Power BI dashboard:
+<img width="1358" height="742" alt="pizzasale dashoboard1" src="https://github.com/user-attachments/assets/a23a4a6d-82df-44b5-a9f4-74c9d4252a66" />
 
+<img width="1360" height="743" alt="pizzasale dashoboard2" src="https://github.com/user-attachments/assets/76bc3e6d-cf62-4cea-95ec-324437f6392f" />
