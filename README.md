@@ -21,4 +21,6 @@ The following metrcis were analyzed using [sql queries](https://github.com/vkinn
 - Sales % by Category & Size
 - Top/Bottom 5 Pizzas by Revenue, Quantity, and Order Frequency
 
+Visualizations
+Here’s a preview of the Power BI dashboard:
 
