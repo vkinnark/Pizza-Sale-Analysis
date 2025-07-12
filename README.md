@@ -32,9 +32,9 @@ Here’s a preview of the Power BI dashboard:
 Insights:
 
 Based on the analysis and visualizations it was observed that 
-The orders were highest on Thursday, Friday and Saturday
-July and August month contribute to highest sale
-Classic category contribute to maximum sales and order
-Large size pizza contribute to maximum sales
+- The orders were highest on Thursday, Friday and Saturday
+- July and August month contribute to highest sale
+- Classic category contribute to maximum sales and order
+- Large size pizza contribute to maximum sales
 
 These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance by optimizing inventory based on high-selling pizza ingredients to reduce waste and cost.Launching campaigns around underperforming categories and accomodating workforce to handle deliveries on high footfall days.
